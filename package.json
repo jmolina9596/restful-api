@@ -1,0 +1,27 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmolina9596/restful-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmolina9596/restful-api/issues"
+  },
+  "engines": {
+    "node": "9.4.0"
+},
+  "homepage": "https://github.com/jmolina9596/restful-api#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
